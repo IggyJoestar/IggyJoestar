@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IggyJoestar
 - 👀 I’m interested in DataScience.
 - 🌱 I’m currently learning Economics
-- 💞️ I’m looking to collaborate on modeling.
+- 💞️ I’m looking to ...
 - 📫 How to reach me...
 
 <!---
