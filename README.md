@@ -1,6 +1,10 @@
 # 👋 ¡Hola! Soy Abraham Calderón
 
-Soy un estudiante de Economía en la PUCP, actualmente en el 8vo ciclo. Me apasiona la economía, la estadística y la programación, y disfruto usar la tecnología para resolver problemas del mundo real. Tengo experiencia en investigación académica, desarrollo web, automatización y análisis de datos.
+Soy un estudiante de Economía en la PUCP. Me apasiona la economía, la estadística y la programación; y disfruto usar la tecnología para resolver problemas del mundo real. Tengo experiencia en investigación académica, desarrollo web, automatización y análisis de datos.
+
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTduY2lpZTAwZ251aTl6ZW1jYXAzMDEzaTIyMmg1YzYyNWEyaXU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yiRNSA2gJInzW/giphy.gif" width="200"/>
+</div>
 
 ---
 
