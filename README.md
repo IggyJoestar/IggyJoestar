@@ -37,11 +37,5 @@ Si quieres colaborar o simplemente conversar sobre ideas interesantes, puedes es
 
 ---
 
-## 🧠 Frase que me inspira
-
-> “Combina la curiosidad de un investigador con la precisión de un programador y la sensibilidad de un diseñador.”
-
----
-
 ¡Gracias por visitar mi perfil!
 
